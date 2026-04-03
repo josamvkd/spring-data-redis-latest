@@ -3,7 +3,6 @@ package com.josamtechie.redis.controller;
 import com.josamtechie.redis.entity.Product;
 import com.josamtechie.redis.service.ProductService;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
